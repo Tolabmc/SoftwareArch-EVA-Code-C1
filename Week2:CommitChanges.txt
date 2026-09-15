@@ -1,0 +1,6 @@
+1. Nope I kept changes to a minimum and used the counter data type to make the changes more minimal.
+2. Yes they would the code is self explanatory and I commented my changes where necessary.
+3. No I did not duplicate behaviour.
+4. We are using a Counter data type instead of a dictionary and this allows us to easily add keys.
+5. I am 100% confident.
+6.
